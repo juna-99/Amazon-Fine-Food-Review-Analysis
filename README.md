@@ -44,11 +44,15 @@ vectors, likely for better visualization and to alleviate the problem of dimensi
 
 ### Clustering
  •  Determining Optimal Parameters: Includes steps to find the optimal parameters for clustering algorithms. 
+ 
  i. K-Means Clustering - Elbow Method and KneeLocator Library.
+ 
  ii.Hierarchical Clustering - Dendrograms 
+ 
 iii.DBSCAN - Nearest Neighbors algorithm
 
  •  Clustering Algorithms:  Fitting these algorithms to the processed data and interpreting the results.
+ 
  •  Silhouette Score: Calculating the silhouette score to assess the quality of the clusters formed.
 
  ### Results Visualization
